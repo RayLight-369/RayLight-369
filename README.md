@@ -1,4 +1,4 @@
-# Hi, I'm Abdul Rafay ![hi](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif){:width: "12px"}
+# Hi, I'm Abdul Rafay ![hi](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif){:width="12px"}
 
 ![Profile Views](https://komarev.com/ghpvc/?username=RayLight-369)
 [![GitHub followers](https://img.shields.io/github/followers/RayLight-369.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/RayLight-369?tab=followers)
