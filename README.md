@@ -12,7 +12,9 @@
 <a href="https://komarev.com/ghpvc/?username=RayLight-369">
   <img align="right" src="https://komarev.com/ghpvc/?username=RayLight-369&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
+
 [![wakatime](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)](https://wakatime.com/@eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc)
+
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
@@ -63,6 +65,7 @@
 <br/>
 <br/>
 <br/>
+
 ## Use To Code
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
@@ -97,10 +100,6 @@
 </p>
 
 <a> 
-    <a href="https://github.com/RayLight-369"><img alt="Ray's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=RayLight-369&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-<a align="center"> 
     <a align="center" href="https://github.com/RayLight-369"><img align="center" alt="Ray's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=RayLight-369&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
 </a>
-
-![Ray's Graph](https://github-readme-activity-graph.vercel.app/graph?username=RayLight-369&custom_title=Ray%20Light's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
