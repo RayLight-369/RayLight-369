@@ -19,6 +19,7 @@
 <h3 align="center">
         <samp>&gt; Hey There!, I am
                 <b><a target="_blank" href="https://portfolio.raylight.repl.co/">Abdul Rafay</a></b>
+                <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">
         </samp>
 </h3>
 <p align="center"> 
