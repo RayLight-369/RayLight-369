@@ -94,6 +94,8 @@
 <br/>
 
 ## Top Open Source -
+[![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=RayLight-369&repo=web-projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/RayLight-369/VioSell)
+[![Ray Folio](https://github-readme-stats.vercel.app/api/pin/?username=RayLight-369&repo=al-folio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/RayLight-369/RayAI)
 [![Ray's Readme](https://github-readme-stats.vercel.app/api/pin/?username=RayLight-369&repo=RayLight-369&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/RayLight-369/RayLight-369)
 
 <p align="left">
