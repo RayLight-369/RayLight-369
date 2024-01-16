@@ -88,19 +88,4 @@
 </p>
 <br/>
 <hr/>
-<br/>
-<p align="center">
-  <a href="https://github.com/RayLight-369">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=RayLight-369&theme=radical&border=7F3FBF&background=0D1117" alt="Ray's GitHub streak"/>
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/RayLight-369">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RayLight-369&theme=radical" alt="Ray's GitHub Contribution"/>
-  </a>
-</p>
-
-<a> 
-    <a align="center" href="https://github.com/RayLight-369"><img align="center" alt="Ray's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=RayLight-369&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <br/>
 </a>
